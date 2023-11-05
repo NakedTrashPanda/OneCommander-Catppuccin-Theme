@@ -66,7 +66,7 @@ You can edit with your own preferences.
 
 Icons and README template from [@Abod1960](https://github.com/Abod1960) but recolored to fit the [Catppuccin theme](https://www.github.com/catppuccin).
 
-Them recolored from the default Nord theme to the [Catppuccin](https://www.github.com/catppuccin) color palette by me.
+Theme recolored from the default Nord theme to the [Catppuccin](https://www.github.com/catppuccin) color palette by me.
 
 ## 📩 License
 
