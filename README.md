@@ -5,9 +5,7 @@
 A theme for [OneCommander](http://www.onecommander.com).
  
 Based on this [theme](https://www.github.com/catppuccin) color palette.
- 
-Recolored Nord theme which comes installed with [OneCommander](http://www.onecommander.com)
- 
+  
  
 ## 🧾 Instructions
 
