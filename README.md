@@ -32,7 +32,7 @@ To locate your OneCommander installation:
 3. Click **"Exe location"** to open the installation folder
 4. Place the `Themes` and `Resources` folders in this directory
 
-![Installation Guide](https://b.l3n.co/i/B FcL3i.png)
+![Installation Guide](https://b.l3n.co/i/BFcL3i.png)
 
 ## 🎯 Features
 
