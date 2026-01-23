@@ -4,7 +4,7 @@
 
 A theme for [OneCommander](http://www.onecommander.com).
  
-Based on this [theme](https://www.github.com/catppuccin) color palette.
+Based on the Catppuccin [theme.](https://www.github.com/catppuccin)
   
  
 ## 🧾 Instructions
@@ -35,17 +35,6 @@ To find the root folder
 
 🖼️And here is a wallpaper: [Catppuccin Wallpaper](https://cdn.discordapp.com/attachments/923640537356070972/1092141428378976436/sakura_tree.png?ex=655a4877&is=6547d377&hm=4d88545ca3e7dc6af3c3c08a041f6bb696515463a8f9fd7503ff5ea5820561d7&).
 
-## ✏ Credit Goes To: 
-
-🕴 **Abod1960**
-
-* 🌐 Website: no website yet 😅
-* 💻 GitHub: [@Abod1960](https://github.com/Abod1960)
-* 🎨 ArtStation: [Abod1960](https://www.artstation.com/abod1960)
-* ✉ Gmail: abod1960.work@gmail.com
-* 🖼 DeviantArt: [Abod1960](https://www.deviantart.com/abod1960)
-* 💬 Discord: [Abod1960#5514](https://discord.com/users/750369816279253083)<br>
-
 
 ## 🌟 Show your support
 
@@ -55,16 +44,20 @@ Contribute other flavors! (Would really appreciate this.)
 
 Maybe even buy me a [coffee](https://www.buymeacoffee.com/raccoons).  
 
-## 📝 Note
+## 📝 Notes
 
 Flavor style is adjustable in the Catppuccin.xaml at line 56 under "AccentBrushForced".
 Delete this line if you would like to change colors through OneCommander instead. 
 
 You can edit with your own preferences.
 
-Icons and README template from [@Abod1960](https://github.com/Abod1960) but recolored to fit the [Catppuccin theme](https://www.github.com/catppuccin).
+I plan on adding more flavors and adjusting the overall style to more closely fit the Catppuccin philosophy. 
 
-Theme recolored from the default Nord theme to the [Catppuccin](https://www.github.com/catppuccin) color palette by me.
+## ✏ Credit: 
+
+* 💻 GitHub: [@Abod1960](https://github.com/Abod1960)
+
+Icons and README template from [@Abod1960](https://github.com/Abod1960) were adjusted to fit the [Catppuccin theme](https://www.github.com/catppuccin).
 
 ## 📩 License
 
