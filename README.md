@@ -4,7 +4,7 @@
 
 A theme for [OneCommander](http://www.onecommander.com).
  
-Based on the Catppuccin [theme.](https://www.github.com/catppuccin)
+Based on the [Catppuccin theme.](https://www.github.com/catppuccin)
   
  
 ## 🧾 Instructions
@@ -57,7 +57,7 @@ I plan on adding more flavors and adjusting the overall style to more closely fi
 
 * 💻 GitHub: [@Abod1960](https://github.com/Abod1960)
 
-Icons and README template from [@Abod1960](https://github.com/Abod1960) were adjusted to fit the [Catppuccin theme](https://www.github.com/catppuccin).
+Icons and README template from [@Abod1960](https://github.com/Abod1960) and were adjusted to fit the [Catppuccin theme](https://www.github.com/catppuccin).
 
 ## 📩 License
 
