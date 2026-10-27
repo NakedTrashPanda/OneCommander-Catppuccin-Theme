@@ -1,8 +1,10 @@
+<img width="2560" height="1439" alt="image" src="https://github.com/user-attachments/assets/8ef2205f-c3e6-4b81-be71-469db715532a" />
 # OneCommander Catppuccin Theme
 
 <div align="center">
 
-![Theme Preview](https://c.l3n.co/i/BFP9fF.png)
+![Theme Preview](![Uploading image.png…]()
+)
 
 *A beautiful Catppuccin-themed skin for [OneCommander](http://www.onecommander.com)*
 
